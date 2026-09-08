@@ -9,7 +9,7 @@ This repository contains the R analysis code for the manuscript:
 >
 > Enock Adu Bonsu¹, Daniel Ebo², Dorcas Doku³
 >
-> ¹ Department of Biostatistics, Mel and Enid Zuckerman College of Public Health, University of Arizona  
+> ¹ Department of Epidemiology and Biostatistics, Mel and Enid Zuckerman College of Public Health, University of Arizona  
 > ² Department of Communication, Georgia State University  
 > ³ Department of Communication Studies, University of Iowa
 >
